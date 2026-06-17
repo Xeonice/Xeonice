@@ -16,8 +16,8 @@ No activity tracked
 ## 📊 GitHub 数据
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xeonice&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xeonice&layout=compact&hide_border=true" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Xeonice&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xeonice&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
